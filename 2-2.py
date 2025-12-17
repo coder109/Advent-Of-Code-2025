@@ -24,4 +24,3 @@ for line in content:
                 print(f"invalid: {i}")
                 res += i
     print(res)
-    # 76169125915

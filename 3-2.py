@@ -24,4 +24,3 @@ for line in content:
     result += temp_result
 
 print(result)
-# 170997883706617

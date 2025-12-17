@@ -21,4 +21,3 @@ for line in content:
         result += first_large * 10 + second_large
 
 print(result)
-# 16807
